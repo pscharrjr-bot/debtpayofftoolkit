@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 220" role="img" aria-label="Debt Payoff Toolkit logo">
+  <rect width="220" height="220" rx="44" fill="#30473b"/>
+  <path d="M48 146c18-24 34-39 55-39 16 0 28 8 42 24 10 12 15 17 27 17 9 0 18-3 27-9v20c-9 6-18 8-30 8-21 0-31-11-42-24-12-14-20-20-31-20-15 0-29 13-44 35l-4 6H48Z" fill="#f5f2ea"/>
+  <path d="M71 96h18v52H71zm30-18h18v70h-18zm30 10h18v60h-18z" fill="#a98d63"/>
+</svg>

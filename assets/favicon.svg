@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Debt Payoff Toolkit favicon">
+  <rect width="64" height="64" rx="16" fill="#30473b"/>
+  <path d="M16 42c7-10 13-16 21-16 6 0 11 3 16 9 4 5 6 7 10 7" fill="none" stroke="#f5f2ea" stroke-width="5" stroke-linecap="round"/>
+  <path d="M22 24h6v18h-6zm11-6h6v24h-6zm11 3h6v21h-6z" fill="#a98d63"/>
+</svg>
